@@ -1,0 +1,24 @@
+.titre_accueil{
+    color: red;
+    text-align: center;
+}
+
+.titre_contact{
+    color: blue;
+    text-align: center;
+}
+
+.titre_livredor{
+    color: green;
+    text-align: center;
+}
+
+nav{
+    width:70%;
+}
+
+.liste{
+    display: flex;
+    justify-content: space-between;
+}
+
