@@ -8,7 +8,7 @@
 </head>
 <body>
     <?php
-    include "nav.php";
+    include "inc/nav.php";
     ?>
     <h1 class="titre_accueil">Accueil</h1>
     
